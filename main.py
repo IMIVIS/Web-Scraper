@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 import streamlit as st
 from scrape import (scrape_website, clean_body_content, extract_body_content, split_dom_content)
 from parse import parse_with_ollama
