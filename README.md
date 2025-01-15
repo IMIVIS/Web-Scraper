@@ -1,4 +1,4 @@
-<h1 style="color: #4CAF50; text-align: center;">Web Scraper with Streamlit and LangChain</h1>
+<h1 style="color: #4CAF50; text-align: center;">Web Scraper</h1>
 
 <p>This project is a versatile web scraper built using Python, designed for efficient and accessible web data extraction. It features an intuitive UI powered by <strong>Streamlit</strong>, advanced text processing capabilities with <strong>LangChain</strong>, and robust web scraping tools like <strong>Selenium</strong> and <strong>BeautifulSoup4</strong>. To elevate its natural language understanding and processing, the scraper integrates <strong>Llama 3.2:1b by Ollama</strong>, ensuring smarter workflows and enhanced text handling.</p>
 
